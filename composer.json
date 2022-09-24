@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "orchid/platform": "^13.3"
+    "orchid/platform": "^13"
   },
   "require-dev": {
     "orchestra/testbench": "^7.0",
